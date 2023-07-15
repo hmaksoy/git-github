@@ -1,1 +1,1 @@
-echo "degisim"
+echo "version2"
